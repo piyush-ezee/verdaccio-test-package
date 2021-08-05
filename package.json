@@ -1,0 +1,16 @@
+{
+  "name": "verdaccio-test-package",
+  "version": "1.0.3",
+  "description": "NPM Verdaccio Registry Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piyush-ezee <piyush.goyani@ezeetechnosys.com>",
+  "keywords": [
+    "verdaccio",
+    "registry",
+    "npm"
+  ],
+  "license": "ISC"
+}

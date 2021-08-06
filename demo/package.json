@@ -10,6 +10,7 @@
   "author": "piyush-ezee <piyush.goyani@ezeetechnosys.com>",
   "license": "ISC",
   "dependencies": {
-    "verdaccio-test-package": "^1.0.3"
+    "express": "^4.17.1",
+    "verdaccio-test-package": "^1.0.2"
   }
 }
